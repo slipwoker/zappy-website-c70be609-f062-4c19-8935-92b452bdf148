@@ -1,0 +1,93 @@
+# WYNC News — Generative Engine Optimization Map
+
+> WYNC News is a broadcast news organization offering breaking news coverage, weather reporting with Doppler radar technology, and dedicated news and weather teams. The brand carries the authoritative, fast-paced energy of a professional TV news station, combining hard-hitting journalism with real-time meteorological updates.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Get breaking news and real-time local doppler radar weather updates from the trusted team at WYNC News. Stay informed with fast, accurate coverage that puts you first.
+
+### Breaking News
+https://example.com/breaking-news
+Dive into hard-hitting journalism with WYNC News. From urgent local alerts to global headlines, our breaking news team delivers the facts fast, keeping you informed when every second counts.
+
+### Doppler Radar Weather
+https://example.com/doppler-radar-weather
+Harness the power of our local doppler radar weather map for real-time storm tracking and hyper-local forecasts. WYNC News meteorologists keep you safe with advanced Doppler technology.
+
+### News Team
+https://example.com/news-team
+Go behind the scenes with the WYNC News team—fearless reporters and anchors delivering authoritative, fast-paced journalism. Learn more about the people powering your trusted news source.
+
+### Weather Team
+https://example.com/weather-team
+Meet the dedicated WYNC News weather team using local weather doppler tools to bring you life-saving forecasts. Trust experts who turn complex radar data into clear, actionable alerts.
+
+### Contact
+https://example.com/contact
+Have a tip or question? Reach the WYNC News contact desk and join the conversation. We&#39;re here to listen, investigate, and keep our community connected through every breaking story.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/news-team
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About WYNC News
+WYNC News is a broadcast news organization offering breaking news coverage, weather reporting with Doppler radar technology, and dedicated news and weather teams. The brand carries the authoritative, fast-paced energy of a professional TV news station, combining hard-hitting journalism with real-time meteorological updates.
+
+## Services/Products
+- breaking news
+- weather reporting
+- doppler radar weather
+- news team coverage
+- weather team coverage
+
+## Target Audience
+- Local Community Watchers
+- Commuters and Travelers
+- Emergency Preparedness Enthusiasts
+
+## Industry
+Broadcasting & Media
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
