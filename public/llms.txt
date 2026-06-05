@@ -7,41 +7,41 @@
 ## Pages
 
 ### Home
-https://example.com
+https://wync-news.zappy5.app
 Get breaking news and real-time local doppler radar weather updates from the trusted team at WYNC News. Stay informed with fast, accurate coverage that puts you first.
 
 ### Breaking News
-https://example.com/breaking-news
+https://wync-news.zappy5.app/breaking-news
 Dive into hard-hitting journalism with WYNC News. From urgent local alerts to global headlines, our breaking news team delivers the facts fast, keeping you informed when every second counts.
 
 ### Doppler Radar Weather
-https://example.com/doppler-radar-weather
+https://wync-news.zappy5.app/doppler-radar-weather
 Harness the power of our local doppler radar weather map for real-time storm tracking and hyper-local forecasts. WYNC News meteorologists keep you safe with advanced Doppler technology.
 
 ### News Team
-https://example.com/news-team
+https://wync-news.zappy5.app/news-team
 Go behind the scenes with the WYNC News team—fearless reporters and anchors delivering authoritative, fast-paced journalism. Learn more about the people powering your trusted news source.
 
 ### Weather Team
-https://example.com/weather-team
+https://wync-news.zappy5.app/weather-team
 Meet the dedicated WYNC News weather team using local weather doppler tools to bring you life-saving forecasts. Trust experts who turn complex radar data into clear, actionable alerts.
 
 ### Contact
-https://example.com/contact
+https://wync-news.zappy5.app/contact
 Have a tip or question? Reach the WYNC News contact desk and join the conversation. We&#39;re here to listen, investigate, and keep our community connected through every breaking story.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://wync-news.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://wync-news.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://wync-news.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - Address: 150 Madison street , oneida, New York, 13421, USA
 
 ### Contact form
-- URL: https://example.com/news-team
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://wync-news.zappy5.app/news-team
+- Endpoint: https://wync-news.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -88,6 +88,6 @@ Broadcasting & Media
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://wync-news.zappy5.app/sitemap.xml
+- Robots: https://wync-news.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://wync-news.zappy5.app/llms-full.txt
