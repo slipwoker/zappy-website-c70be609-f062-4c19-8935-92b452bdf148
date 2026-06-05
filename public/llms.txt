@@ -48,7 +48,7 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Address: 150 Madison street , oneida, New York, 13421, USA
 
 ### Contact form
 - URL: https://example.com/news-team
